@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="" />
+    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0828/P9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0829/P34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0828/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0828/P1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UabPY4vBdtbWkgoJovddCKDfh5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,10 +57,97 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src\before" />
+      <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P34">
+    <configuration name="P20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0828.P20" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0829.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0828.P21" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0829.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0828.P30" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0829.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0828.P33" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0829.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0829.P34" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0829.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P34" />
+        <item itemvalue="Application.P33" />
+        <item itemvalue="Application.P30" />
+        <item itemvalue="Application.P21" />
+        <item itemvalue="Application.P20" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +156,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693180616015</updated>
+      <workItem from="1693180617110" duration="4451000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1693180697881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693180697881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
