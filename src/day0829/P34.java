@@ -1,4 +1,4 @@
-package day0829;
+package day0829;        //최소 직사각형
 
 public class P34 {
     public static void main(String[] args) {
@@ -12,12 +12,14 @@ public class P34 {
         int h1 = 0;
         int w2 = 0;
         int h2 = 0;
+        int w = 0;
+        int h =0;
         for (int i = 0; i < sizes.length; i++) {
-            w1 = Math.max(w1, sizes[i][0]);
-            h1 = Math.max(h1, sizes[i][1]);
+            w1 = Math.max(w, sizes[i][0]);
+            h1 = Math.max(h, sizes[i][1]);
 
-            w2 = Math.max(w1, sizes[i][1]);
-            h2 = Math.max(h1, sizes[i][0]);
+            w2 = Math.max(w, sizes[i][1]);
+            h2 = Math.max(h, sizes[i][0]);
 
             System.out.println(w1);
             System.out.println(h1);
@@ -25,14 +27,16 @@ public class P34 {
             System.out.println(h2);
             System.out.println();
 
-
             if(w1*h1 > w2*h2){
-                w1 = w2;
-                h1 = h2;
+                w = w2;
+                h = h2;
+            }else{
+                w = w1;
+                h = h1;
             }
 
         }
-        answer = w1*h1;
+        answer = w*h;
         return answer;
     }
 }
