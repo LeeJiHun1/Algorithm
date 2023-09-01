@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230829">
-      <change afterPath="$PROJECT_DIR$/src/day0830/P62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0830/P63.java" afterDir="false" />
+    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230830">
+      <change afterPath="$PROJECT_DIR$/src/day0901/P64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0901/P65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0901/P66.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,46 +69,7 @@
       <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P63">
-    <configuration name="P41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0829.P41" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0829.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0829.P60" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0829.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0829.P61" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0829.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P66">
     <configuration name="P62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day0830.P62" />
       <module name="Algorithm" />
@@ -134,13 +96,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0901.P64" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0901.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0901.P65" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0901.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0901.P66" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0901.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P66" />
+        <item itemvalue="Application.P65" />
+        <item itemvalue="Application.P64" />
         <item itemvalue="Application.P63" />
         <item itemvalue="Application.P62" />
-        <item itemvalue="Application.P61" />
-        <item itemvalue="Application.P60" />
-        <item itemvalue="Application.P41" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,8 @@
       <workItem from="1693194426740" duration="35000" />
       <workItem from="1693267509127" duration="4200000" />
       <workItem from="1693282060870" duration="63000" />
-      <workItem from="1693353597230" duration="3673000" />
+      <workItem from="1693353597230" duration="3833000" />
+      <workItem from="1693526779316" duration="2659000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693180697881</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693271736941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20230830">
+      <created>1693357453824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693357453824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="20230829" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230829" />
+    <MESSAGE value="20230830" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230830" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
