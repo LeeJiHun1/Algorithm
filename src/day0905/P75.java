@@ -19,7 +19,6 @@ public class P75 {
                 set.add(sum);
             }
         }
-
         return set.size();
     }
 }

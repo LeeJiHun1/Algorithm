@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230901">
-      <change afterPath="$PROJECT_DIR$/src/day0902/P67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0902/P68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0902/P69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0902/P70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0904/P71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0904/P72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0904/P73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0905/P74.java" afterDir="false" />
+    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230905">
+      <change afterPath="$PROJECT_DIR$/src/day0906/P76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0906/P77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0905/P75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0905/P75.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,66 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dlwlg/Desktop/sparta project/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dlwlg/Desktop/sparta project/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src\before" />
       <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P74">
-    <configuration name="P70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0902.P70" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0902.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0904.P71" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0904.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0904.P72" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day0904.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P77">
     <configuration name="P73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day0904.P73" />
       <module name="Algorithm" />
@@ -140,13 +96,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0905.P75" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0905.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0906.P76" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0906.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0906.P77" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0906.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P77" />
+        <item itemvalue="Application.P76" />
+        <item itemvalue="Application.P75" />
         <item itemvalue="Application.P74" />
         <item itemvalue="Application.P73" />
-        <item itemvalue="Application.P72" />
-        <item itemvalue="Application.P71" />
-        <item itemvalue="Application.P70" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +161,8 @@
       <workItem from="1693526779316" duration="3777000" />
       <workItem from="1693612984052" duration="4433000" />
       <workItem from="1693786046690" duration="3706000" />
-      <workItem from="1693872533518" duration="2143000" />
+      <workItem from="1693872533518" duration="2772000" />
+      <workItem from="1693958688473" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693180697881</created>
@@ -196,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693529523214</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20230905">
+      <created>1693874877139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693874877139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="20230905">
+      <created>1693875235411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693875235411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +217,8 @@
     <MESSAGE value="20230829" />
     <MESSAGE value="20230830" />
     <MESSAGE value="20230901" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230901" />
+    <MESSAGE value="20230905" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230905" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -231,6 +242,11 @@
           <url>file://$PROJECT_DIR$/src/day0905/P74.java</url>
           <line>23</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0906/P76.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
