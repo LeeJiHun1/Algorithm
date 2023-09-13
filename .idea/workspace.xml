@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230905">
-      <change afterPath="$PROJECT_DIR$/src/day0908/P78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0908/P79.java" afterDir="false" />
+    <list default="true" id="1bf5ee8b-52e1-4db1-bf14-ebb524481802" name="Changes" comment="20230908">
+      <change afterPath="$PROJECT_DIR$/src/day0909/P80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0909/P81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0909/P82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0911/P83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0912/P84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0912/P85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0913/P86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0913/P87.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +77,13 @@
       <recent name="C:\Users\dlwlg\Desktop\sparta project\Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P79">
-    <configuration name="P75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0905.P75" />
+  <component name="RunManager" selected="Application.P87">
+    <configuration name="P83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0911.P83" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0905.*" />
+          <option name="PATTERN" value="day0911.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0906.P76" />
+    <configuration name="P84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0912.P84" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0906.*" />
+          <option name="PATTERN" value="day0913.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0906.P77" />
+    <configuration name="P85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0912.P85" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0906.*" />
+          <option name="PATTERN" value="day0913.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0908.P78" />
+    <configuration name="P86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0913.P86" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0908.*" />
+          <option name="PATTERN" value="day0913.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0908.P79" />
+    <configuration name="P87" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0913.P87" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0908.*" />
+          <option name="PATTERN" value="day0913.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P79" />
-        <item itemvalue="Application.P78" />
-        <item itemvalue="Application.P77" />
-        <item itemvalue="Application.P76" />
-        <item itemvalue="Application.P75" />
+        <item itemvalue="Application.P87" />
+        <item itemvalue="Application.P86" />
+        <item itemvalue="Application.P85" />
+        <item itemvalue="Application.P84" />
+        <item itemvalue="Application.P83" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,12 @@
       <workItem from="1693786046690" duration="3706000" />
       <workItem from="1693872533518" duration="2772000" />
       <workItem from="1693958688473" duration="2589000" />
-      <workItem from="1694131927289" duration="2851000" />
+      <workItem from="1694131927289" duration="2882000" />
+      <workItem from="1694218091510" duration="4025000" />
+      <workItem from="1694390806709" duration="3784000" />
+      <workItem from="1694396015205" duration="445000" />
+      <workItem from="1694476807134" duration="4097000" />
+      <workItem from="1694563607118" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693180697881</created>
@@ -216,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693961272764</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20230908">
+      <created>1694134808097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694134808097</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +246,8 @@
     <MESSAGE value="20230830" />
     <MESSAGE value="20230901" />
     <MESSAGE value="20230905" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230905" />
+    <MESSAGE value="20230908" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -257,6 +276,16 @@
           <url>file://$PROJECT_DIR$/src/day0906/P76.java</url>
           <line>14</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0909/P81.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0913/P87.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
